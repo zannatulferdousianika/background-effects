@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(141, 199, 199);
+    padding: 10px;
+    margin-top: 0px;
+}
+
+img,img{
+   padding: 20px; 
+   padding-left: 140px;
+   margin:0px;
+}
+
+#css{
+    width:400px;
+    font-size: 20px;
+    height:400px;
+    background-color: rgb(25, 207, 207);  
+    float: left;  
+    margin-left: 130px;
+    border: 2px solid rgb(15, 1, 15);
+}
+
+#html {
+    width:400px;
+    font-size: 20px;
+    height:400px;
+    background-color: rgb(207, 122, 25); 
+    float: right;
+    margin-right: 220px;
+    border: 2px solid rgb(37, 12, 2);
+
+}
+footer{
+
+    background-color: rgb(10, 117, 117);
+    padding:20px;
+    color: rgb(15, 15, 15);
+    font-weight: bolder;
+    
+}
+
+
+
+
+
+
+
+
+
